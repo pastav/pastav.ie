@@ -12,7 +12,12 @@ Let’s connect and explore new ways to simplify, automate, and improve your SRE
 
 
 You can view my experience below!
-<div class="relative w-full max-w-3xl mx-auto">
+<!-- <div class="relative w-full max-w-3xl mx-auto">
   <embed src="/resume.pdf" type="application/pdf" class="w-full h-[600px] border-0">
+</div> -->
+<div class="relative w-full max-w-3xl mx-auto">
+  <object data="/resume.pdf" type="application/pdf" class="w-full h-[600px] border-0">
+    <!-- <img src="broken.png" alt="PDF not found"> -->
+    <p>Download the PDF <a href="/resume.pdf">here</a></p>
+  </object>
 </div>
-
