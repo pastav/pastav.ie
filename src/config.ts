@@ -4,8 +4,8 @@ export const SITE: Site = {
   website: "https://pastav.ie", // replace this with your deployed domain
   author: "Pratik Srivastava",
   profile: "https://pastav.ie",
-  desc: "A blog for all things Linux and SRE",
-  title: "pastav",
+  desc: "All things Linux and SRE",
+  title: "Pastav's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -28,7 +28,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/pastav",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
