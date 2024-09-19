@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Pratik Srivastava",
   profile: "https://pastav.ie",
   desc: "All things Linux and SRE",
-  title: "Pastav's Blog",
+  title: "Pastav's Tech Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,

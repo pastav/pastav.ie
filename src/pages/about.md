@@ -2,35 +2,17 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
+Welcome to Pastav’s Blog! I’m a passionate Linux enthusiast and Site Reliability Engineer (SRE) who thrives on solving complex problems and automating workflows to make life simpler and more efficient
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Whether you’re looking to optimize server performance, deploy scalable cloud systems, or streamline everyday tasks.
+My goal is to help everyone—from beginners to seasoned pros—work smarter, not harder.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Let’s connect and explore new ways to simplify, automate, and improve your SRE and Linux experience. You can find me on [LinkedIn](https://www.linkedin.com/in/pastav99/).
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+
+You can view my experience below!
+<div class="relative w-full max-w-3xl mx-auto">
+  <embed src="/resume.pdf" type="application/pdf" class="w-full h-[600px] border-0">
 </div>
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
